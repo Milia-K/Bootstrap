@@ -1,0 +1,8 @@
+.rowCustom{
+    height: 100px;
+    justify-content: center;
+}
+.containerCustom{
+    height: 200px;
+    background-color: rgb(233, 229, 229);
+}
